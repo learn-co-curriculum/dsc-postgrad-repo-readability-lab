@@ -1,6 +1,15 @@
-# Project Readability Lab
+# Project Readability - Lab
+
+## Introduction
 
 Now that you have reviewed the impact of markdown, found text to enhance with markdown, and enhanced code with comments; it is time to apply this knowledge to your own projects.
+
+## Objectives
+
+You will be able to:
+
+- Tweak your projects using markdown to enhance the readability of text
+- Tweak your projects using using comments to enhance the readability of code
 
 ## Review Your Own Project Text and Code
 
@@ -17,3 +26,8 @@ Use the following questions to aid your review:
 - Do your functioons have docstrings?
 - How many comments are in your code?
 - How descriptive are your comments?
+
+
+## Summary
+
+Great job! You have now completed github-cleaning section of this track. 
