@@ -1,4 +1,4 @@
-# Project Readability - Lab
+# Repository Readability - Lab
 
 ## Introduction
 
